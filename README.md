@@ -11,7 +11,7 @@
 
 - 🌱 I’m looking to collaborate on **development projects**
 
-- 👯 I’m currently learning **NodeJS (MVC, REST APIs, GraphQL, Deno)**
+- 👯 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajeibi/](https://github.com/ajeibi/)
 
